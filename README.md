@@ -11,5 +11,5 @@ Cada cor tem o seu próprio canal pwm. Cada uma é iniciada em um valor distinto
 [![Assista no YouTube](https://img.youtube.com/vi/mN-BrQMJ8co/maxresdefault.jpg)](https://youtu.be/mN-BrQMJ8co)
 
 
-[![Assista no YouTube](https://img.youtube.com/vi/AguHtH9S1hM/maxresdefault.jpg)](https://youtube.com/shorts/AguHtH9S1hM)
+[![Assista no YouTube](https://img.youtube.com/shorts/AguHtH9S1hM/maxresdefault.jpg)](https://youtube.com/shorts/AguHtH9S1hM)
 
