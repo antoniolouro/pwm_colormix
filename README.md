@@ -10,8 +10,4 @@ Cada cor tem o seu próprio canal pwm. Cada uma é iniciada em um valor distinto
 
 [![Assista no YouTube](https://img.youtube.com/vi/mN-BrQMJ8co/maxresdefault.jpg)](https://youtu.be/mN-BrQMJ8co)
 
-
-
 [![Assista ao Shorts](https://img.youtube.com/vi/AguHtH9S1hM/maxresdefault.jpg)](https://www.youtube.com/watch?v=AguHtH9S1hM)
-
-
